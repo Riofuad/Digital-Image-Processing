@@ -20,5 +20,6 @@ Task 3
 - Segmentation with K-Mean
 
 Task 4
-- Segmentation image is like following example:
-<image src="Tugas 4/cell darah.png" width="400px" height="250px">
+- Segmentation of blood cell image is like the following example:
+<img src="Tugas 4/Example 1.PNG" style="width:500px; height:250px">
+<img src="Tugas 4/Example 2.PNG" style="width:500px; height:250px">
